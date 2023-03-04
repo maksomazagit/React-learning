@@ -1,0 +1,22 @@
+/* Стиль заголовка h1 */
+h1 {
+  color: blue;
+  font-size: 24px;
+}
+
+/* Стиль абзаца p */
+p {
+  color: black;
+  font-size: 16px;
+}
+
+/* Стиль списка ul */
+ul {
+  list-style-type: none;
+}
+
+/* Стиль пунктов списка li */
+li {
+  color: green;
+  font-size: 14px;
+}
